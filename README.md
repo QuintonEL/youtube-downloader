@@ -1,1 +1,1 @@
-A simple tool to download YouTube videos using https://pytube.io/en/latest/
+A simple tool to download YouTube videos using [Pytube] (https://pytube.io/en)
